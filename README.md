@@ -1,9 +1,9 @@
 # Kaggle-telecom-customer-churn-prediction
 Telecom Customer Churn Prediction
-# Data
+
 ## Data source: https://www.kaggle.com/blastchar/telco-customer-churn
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
-## Content
+## Data Content
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
 The data set includes information about:
